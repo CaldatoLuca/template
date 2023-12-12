@@ -1,6 +1,8 @@
 # Template Vite con scss
 
-````npm install
+````
+npm install
 
-npm run dev```
+npm run dev
+
 ````
